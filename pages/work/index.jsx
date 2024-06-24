@@ -29,8 +29,7 @@ const Work = () => {
               exit="hidden"
               className="mb-4 max-w-[400px] mx-auto lg:mx-0"
             >
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur
-              tempora eligendi, quisquam tempore sint reiciendis.
+              My portfolio showcases a diverse range of projects that highlight my expertise in transforming ideas into digital realities. Each project is a testament to my commitment to excellence and my passion for creating innovative web solutions. From branding and design to development and SEO, I ensure every detail is meticulously crafted to deliver exceptional results. Explore my work to see how I can help elevate your digital presence.
             </motion.p>
           </div>
 

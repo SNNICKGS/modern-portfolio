@@ -31,8 +31,7 @@ const Services = () => {
               exit="hidden"
               className="mb-4 max-w-[400px] mx-auto lg:mx-0"
             >
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur
-              tempora eligendi, quisquam tempore sint reiciendis.
+              I offer a comprehensive suite of services designed to transform your ideas into impactful digital realities. My expertise spans across key areas essential for creating and maintaining a successful online presence:
             </motion.p>
           </div>
 
