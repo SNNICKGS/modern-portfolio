@@ -17,27 +17,27 @@ const serviceData = [
   {
     Icon: RxCrop,
     title: "Branding",
-    description: "Crafting a unique and memorable brand identity that resonates with your target audience and sets you apart from the competition.",
+    description: "Crafting a unique and memorable brand identity.",
   },
   {
     Icon: RxPencil2,
     title: "Design",
-    description: "Developing visually stunning and user-friendly designs that enhance user experience and engagement.",
+    description: "Developing visually stunning and user-friendly designs.",
   },
   {
     Icon: RxDesktop,
     title: "Development",
-    description: "Building robust, responsive, and scalable websites and applications tailored to your specific needs and goals.",
+    description: "Building robust, responsive, and scalable websites and applications.",
   },
   {
     Icon: RxReader,
     title: "Copywriting",
-    description: "Creating compelling and effective content that communicates your message clearly and persuasively.",
+    description: "Creating compelling and effective content.",
   },
   {
     Icon: RxRocket,
     title: "SEO",
-    description: " Implementing proven SEO strategies to improve your website's visibility, drive organic traffic, and enhance search engine rankings.",
+    description: " Implementing proven SEO strategies to improve your website.",
   },
 ];
 
