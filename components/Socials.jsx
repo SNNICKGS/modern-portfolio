@@ -21,21 +21,6 @@ export const socialData = [
     Icon: RiInstagramLine,
   },
   {
-    name: "Facebook",
-    link: "https://facebook.com",
-    Icon: RiFacebookLine,
-  },
-  {
-    name: "Dribbble",
-    link: "https://dribbble.com",
-    Icon: RiDribbbleLine,
-  },
-  {
-    name: "Pinterest",
-    link: "https://pinterest.com",
-    Icon: RiPinterestLine,
-  },
-  {
     name: "Github",
     link: "https://github.com/",
     Icon: RiGithubLine,
