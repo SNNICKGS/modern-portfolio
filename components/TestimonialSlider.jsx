@@ -13,21 +13,21 @@ const testimonialData = [
     name: "Anne Smith",
     position: "Customer",
     message:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!",
+      "I recently had the pleasure of working with Dionis Markov, and I am thoroughly impressed with the experience. From the very beginning, Dionis demonstrated professionalism, attention to detail, and a genuine commitment to understanding my needs. The quality of service provided was exceptional, and Dionis's expertise and dedication truly stood out. I am delighted with the results and would highly recommend Dionis Markov to anyone looking for top-notch service. Thank you, Dionis, for exceeding my expectations",
   },
   {
     image: "/t-avt-2.png",
     name: "Jane Doe",
     position: "Customer",
     message:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!",
+      "I had a wonderful experience working with Dionis Markov. From our first interaction, Dionis's professionalism and attention to detail were evident. He took the time to understand my needs and provided exceptional service throughout the entire process. The results exceeded my expectations, and I am extremely satisfied. I highly recommend Dionis Markov to anyone seeking outstanding service and expertise. Thank you, Dionis, for your dedication and hard work!",
   },
   {
     image: "/t-avt-3.png",
-    name: "Jhon Doe",
+    name: "Alex Johnson",
     position: "Customer",
     message:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!",
+      "Dionis Markov provided an outstanding service experience. His professionalism, dedication, and attention to detail were apparent from the very start. He understood my requirements perfectly and delivered results that went above and beyond my expectations. The quality and commitment Dionis brings to his work are truly commendable. I would highly recommend his services to anyone in need of excellence and expertise. Thank you, Dionis, for your remarkable work!",
   },
 ];
 
